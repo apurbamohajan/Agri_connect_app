@@ -269,7 +269,6 @@ export default function HomeScreen() {
             </TouchableOpacity>
           </View>
         </View>
-
         {/* Debug Info */}
         <View style={styles.debugSection}>
           <ThemedText style={styles.debugText}>
